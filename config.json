@@ -1,8 +1,8 @@
 {
-    "api_id": "28565475",
-    "api_hash": "98bb1e0a4d435181ff108b964a252eda",
-    "phone_number": "+251714147014",
+    "api_id": "replace your api_id",
+    "api_hash": "your api_hash",
+    "phone_number": "+251........",
     "session_name": "account_b_session",
-    "account_a": 7955765419,
-    "account_c": 6541477775
+    "account_a": `use account a`,
+    "account_c": `use account c`
 }
