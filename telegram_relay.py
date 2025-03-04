@@ -1,16 +1,16 @@
 from telethon import TelegramClient, events
 
 # Replace these with your own values
-api_id = '28565475'  # Your Telegram API ID
-api_hash = '98bb1e0a4d435181ff108b964a252eda'  # Your Telegram API Hash
+api_id = 'Your Telegram API ID'  # Your Telegram API ID
+api_hash = 'api hash'  # Your Telegram API Hash
 
 # Account B's phone number and session name
-phone_number = '+251714147014'  # Phone number of Account B
+phone_number = '+251.....'  # Phone number of Account B
 session_name = 'account_b_session'  # Session name for Account B
 
 # Account A and C IDs (replace with actual numeric IDs)
-account_a = 7955765419  # Numeric ID of Account A
-account_c = 6541477775  # Numeric ID of Account C
+account_a = `replace Numeric ID of Account A`  # Numeric ID of Account A
+account_c = `replace Numeric ID of Account C`  # Numeric ID of Account C
 
 # Initialize the Telegram client
 client = TelegramClient(session_name, api_id, api_hash)
