@@ -3,6 +3,6 @@
     "api_hash": "your api_hash",
     "phone_number": "+251........",
     "session_name": "account_b_session",
-    "account_a": `use account a`,
-    "account_c": `use account c`
+    "account_a": "use account a",
+    "account_c": "use account c"
 }
